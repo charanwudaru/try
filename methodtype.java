@@ -43,7 +43,7 @@ class computer {
         System.out.println(c.mul(9, 7));
         System.out.println(c.sub(10, 3));
         System.out.println(c.mul(5, 7));
-        System.out.println(c.div(10, 2));
+        System.out.println(c.sub(10, 2));
         c.displayMessage();// IF WE USE VOID WE CANT RETURN
         c.add2(5, 7);
         c.sub2(10, 3);
